@@ -1,2 +1,3 @@
 # Machine_Learning_Projects
-these are the projects which is completed .
+
+These are the projects which is completed. if any mistakes are there in code you can contact me.
