@@ -3,4 +3,4 @@
 ```
 The projects will be uploaded as soon as possible stay tuned
 ```
-*Mean while you can contact me for more details*
+*Mean while you can contact me for any kind of help*
